@@ -1,0 +1,6 @@
+name = Ubercart Add-ons
+description = This adds Ubercart and Userpoints enhancements to Views
+core = 7.x
+dependencies[] = userpoints
+dependencies[] = uc_order
+dependencies[] = uc_product
